@@ -1,0 +1,7 @@
+class oddoreven;
+public static void main[String args() ]
+inter num = 4567
+if(num%2==0) {
+system. out. println("The given num"+num+is true") ;
+else{
+system. out. println("The given num"+num+is odd") ;
